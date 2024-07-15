@@ -30,7 +30,7 @@ Chrome Extension Go to `chrome://extensions/` in Chrome, Click Load unpacked and
 
 Pin the extension
 
-Using the app Click the extension icon, if the user is not logged in, it should open the login screen (/accounts/login). Once the user has logged in, the badge on the icon will specify if the token is verified or expired. In this example, the session is set to expire in 10s.
+Using the app Click the extension icon, if the user is not logged in, it should open the login screen `/accounts/login`. Once the user has logged in, the badge on the icon will specify if the token is verified or expired. In this example, the session is set to expire in 10s.
 
 
-![Alt Text](/app_demo.gif)
+![Demo of application](/app_demo.gif)

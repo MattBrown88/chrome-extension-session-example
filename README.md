@@ -2,13 +2,13 @@ This repo demonstrates how to implement Session-based authentication for a chrom
 
 Django Create and activate virtual environment
 
-$ virtualenv env
+$ virtualenv env --python=python3.11
 
 $ source ./env/bin/activate
 
 Switch to django_backend directory
 
-$ cd django_backend
+$ cd session_chrome_app
 
 Install requirements
 
